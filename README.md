@@ -145,7 +145,7 @@ MIT License
 
 ## 👨‍💻 작성자
 
-개발자 이름
+Choi JooWon
 
 ## 🤝 기여
 
